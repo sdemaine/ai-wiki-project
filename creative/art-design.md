@@ -276,7 +276,7 @@ Transform your design process with AI-powered tools that can create professional
 ## 🎓 Next Steps
 
 ### **After Mastering AI Design**
-1. **[Apply to Business](/barbering/social-media)** - Use for marketing and branding
+1. **[Apply to Marketing](/daily-life/productivity)** - Use for personal and business branding
 2. **[Enhance Writing Projects](/writing/)** - Create book covers and promotional materials
 3. **[Integrate with Video](/creative/video-generation)** - Design elements for video content
 4. **[Build Online Presence](/daily-life/communication)** - Professional social media graphics

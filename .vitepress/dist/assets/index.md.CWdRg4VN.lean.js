@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,ae as r}from"./chunks/framework.Dgg8-8ov.js";const u=JSON.parse('{"title":"AI Applications Wiki","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"};function o(l,i,s,c,p,d){return t(),e("div",null,i[0]||(i[0]=[r("",17)]))}const g=a(n,[["render",o]]);export{u as __pageData,g as default};

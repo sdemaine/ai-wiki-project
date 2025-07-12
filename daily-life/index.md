@@ -15,11 +15,8 @@ Discover how artificial intelligence can simplify and enhance your everyday task
 ### [Communication](/daily-life/communication)
 Email assistance, language translation, voice assistants, and conversation tools.
 
-### [Finance & Budgeting](/daily-life/finance)
-AI-powered budgeting apps, investment advice, expense tracking, and financial planning.
-
-### [Health & Fitness](/daily-life/health)
-Fitness planning, nutrition guidance, sleep optimization, and wellness tracking.
+### [Productivity & Organization](/daily-life/productivity)
+AI-powered task management, scheduling, and workflow optimization tools.
 
 ### [Learning & Education](/daily-life/learning)
 Language learning, skill development, online courses, and personalized tutoring.

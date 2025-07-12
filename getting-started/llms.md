@@ -162,7 +162,7 @@ Try these beginner prompts:
 ## 🎓 Next Steps
 
 ### **Once Comfortable with Text AI:**
-1. **[Try Image Generation](/getting-started/image-ai)** - Create pictures with AI
+1. **[Try Image Generation](/creative/image-generation)** - Create pictures with AI
 2. **[Explore Creative Tools](/creative/)** - Music, video, and art generation
 3. **[Apply to Writing](/writing/)** - Enhance your novel writing process
 

@@ -10,13 +10,13 @@ Welcome to your AI journey! This section will help you understand AI basics and 
 
 ### 📱 Essential Setup (15 minutes)
 3. **[Mobile Apps Setup](/getting-started/mobile-apps)** - Get AI in your pocket
-4. **[Free vs Paid Tools](/getting-started/free-vs-paid)** - What you need to spend money on
+4. **Explore tool costs** - Most tools have generous free tiers
 
 ### 🧠 Core AI Types (Pick what interests you)
 - **[Text AI (LLMs)](/getting-started/llms)** - ChatGPT, Claude, and conversation AI
-- **[Image Generation](/getting-started/image-ai)** - Create pictures from words
-- **[Music & Audio](/getting-started/audio-ai)** - Generate music and edit audio
-- **[Voice Assistants](/getting-started/voice-ai)** - Siri, Alexa, and beyond
+- **[Image Generation](/creative/image-generation)** - Create pictures from words
+- **[Music & Audio](/creative/music-creation)** - Generate music and edit audio
+- **Voice Assistants** - Siri, Alexa, and Google Assistant
 
 ## 🏃‍♂️ Quick Start Options
 
@@ -51,7 +51,6 @@ Once you're comfortable with the basics, explore:
 - **[Creative Tools](/creative/)** - Image, music, and video generation
 - **[Writing & Research](/writing/)** - AI for authors and researchers  
 - **[Daily Life](/daily-life/)** - Productivity and lifestyle AI
-- **[Business](/barbering/)** - Professional AI applications
 
 ---
 

@@ -1,7 +1,6 @@
 export default {
   title: 'AI Applications Wiki',
-  description: 'A comprehensive guide to AI tools for everyday life, barbering, and creative writing',
-  ignoreDeadLinks: true,
+  description: 'A comprehensive guide to AI tools for everyday life, creative projects, and novel writing',
   
   themeConfig: {
     nav: [
@@ -9,8 +8,7 @@ export default {
       { text: 'Getting Started', link: '/getting-started/' },
       { text: 'Creative Tools', link: '/creative/' },
       { text: 'Writing & Research', link: '/writing/' },
-      { text: 'Daily Life', link: '/daily-life/' },
-      { text: 'Business', link: '/barbering/' }
+      { text: 'Daily Life', link: '/daily-life/' }
     ],
 
     sidebar: {
@@ -45,27 +43,17 @@ export default {
           ]
         }
       ],
-      '/barbering/': [
-        {
-          text: 'Business AI Tools',
-          items: [
-            { text: 'Customer Management', link: '/barbering/customer-management' },
-            { text: 'Social Media Marketing', link: '/barbering/social-media' },
-            { text: 'Business Analytics', link: '/barbering/analytics' },
-            { text: 'Inventory Management', link: '/barbering/inventory' },
-            { text: 'Customer Service', link: '/barbering/customer-service' }
-          ]
-        }
-      ],
       '/writing/': [
         {
-          text: 'Creative Writing AI',
+          text: 'Novel Writing Tools',
           items: [
-            { text: 'Writing Assistants', link: '/writing/assistants' },
-            { text: 'Plot Development', link: '/writing/plot-development' },
+            { text: 'AI Writing Assistants', link: '/writing/ai-assistants' },
+            { text: 'Novel Creation Platforms', link: '/writing/novel-platforms' },
+            { text: 'Plot & Story Development', link: '/writing/plot-development' },
             { text: 'Character Creation', link: '/writing/character-creation' },
-            { text: 'Research Tools', link: '/writing/research' },
-            { text: 'Publishing & Marketing', link: '/writing/publishing' }
+            { text: 'Research & World Building', link: '/writing/research-worldbuilding' },
+            { text: 'Editing & Revision', link: '/writing/editing-revision' },
+            { text: 'Publishing & Marketing', link: '/writing/publishing-marketing' }
           ]
         }
       ],
@@ -73,11 +61,10 @@ export default {
         {
           text: 'Everyday AI Applications',
           items: [
-            { text: 'Communication', link: '/daily-life/communication' },
-            { text: 'Finance & Budgeting', link: '/daily-life/finance' },
-            { text: 'Health & Fitness', link: '/daily-life/health' },
+            { text: 'Communication & Email', link: '/daily-life/communication' },
+            { text: 'Productivity & Organization', link: '/daily-life/productivity' },
             { text: 'Learning & Education', link: '/daily-life/learning' },
-            { text: 'Entertainment', link: '/daily-life/entertainment' }
+            { text: 'Entertainment & Media', link: '/daily-life/entertainment' }
           ]
         }
       ]

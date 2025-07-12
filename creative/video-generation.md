@@ -236,7 +236,7 @@ Create stunning videos from text descriptions, animate still images, and produce
 1. **[Combine with Music Creation](/creative/music-creation)** - Add AI-generated soundtracks
 2. **[Use with Image Generation](/creative/image-generation)** - Create assets for animation
 3. **[Apply to Social Media](/daily-life/entertainment)** - Build content strategies
-4. **[Explore Business Applications](/barbering/social-media)** - Professional video marketing
+4. **[Explore Business Applications](/daily-life/productivity)** - Professional video marketing
 
 ---
 
