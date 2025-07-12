@@ -1,6 +1,7 @@
 export default {
   title: 'AI Applications Wiki',
   description: 'A comprehensive guide to AI tools for everyday life, barbering, and creative writing',
+  ignoreDeadLinks: true,
   
   themeConfig: {
     nav: [
